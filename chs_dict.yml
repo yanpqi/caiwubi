@@ -1,0 +1,112 @@
+!!python/str '一':
+- !!python/unicode 'g'
+- !!python/unicode ''
+- !!python/unicode 'ggl'
+- !!python/unicode 'ggll'
+- ['http://att.chaiwubi.com/wubi/86zg/g+01.bmp', 'http://att.chaiwubi.com/wubi/86zg/g+01.bmp',
+  'http://att.chaiwubi.com/wubi/86zg/l+10.bmp', 'http://att.chaiwubi.com/wubi/86zg/l+10.bmp']
+- http://att.chaiwubi.com/wubi/86tj/一.gif
+!!python/str '丁':
+- !!python/unicode ''
+- !!python/unicode ''
+- !!python/unicode 'sgh'
+- !!python/unicode ''
+- ['http://att.chaiwubi.com/wubi/86zg/s+02.bmp', 'http://att.chaiwubi.com/wubi/86zg/g+01.bmp',
+  'http://att.chaiwubi.com/wubi/86zg/h+01.bmp']
+- http://att.chaiwubi.com/wubi/86tj/丁.gif
+!!python/str '七':
+- !!python/unicode ''
+- !!python/unicode 'ag'
+- !!python/unicode 'agn'
+- !!python/unicode ''
+- ['http://att.chaiwubi.com/wubi/86zg/a+08.bmp', 'http://att.chaiwubi.com/wubi/86zg/g+01.bmp',
+  'http://att.chaiwubi.com/wubi/86zg/n+01.bmp']
+- http://att.chaiwubi.com/wubi/86tj/七.gif
+!!python/str '乙':
+- !!python/unicode ''
+- !!python/unicode ''
+- !!python/unicode 'nnl'
+- !!python/unicode 'nnll'
+- ['http://att.chaiwubi.com/wubi/86zg/n+01.bmp', 'http://att.chaiwubi.com/wubi/86zg/n+01.bmp',
+  'http://att.chaiwubi.com/wubi/86zg/l+10.bmp', 'http://att.chaiwubi.com/wubi/86zg/l+10.bmp']
+- http://att.chaiwubi.com/wubi/86tj/乙.gif
+!!python/str '二':
+- !!python/unicode ''
+- !!python/unicode 'fg'
+- !!python/unicode 'fgg'
+- !!python/unicode ''
+- ['http://att.chaiwubi.com/wubi/86zg/f+03.bmp', 'http://att.chaiwubi.com/wubi/86zg/g+01.bmp',
+  'http://att.chaiwubi.com/wubi/86zg/g+01.bmp']
+- http://att.chaiwubi.com/wubi/86tj/二.gif
+!!python/str '人':
+- !!python/unicode 'w'
+- !!python/unicode ''
+- !!python/unicode ''
+- !!python/unicode 'wwww'
+- ['http://att.chaiwubi.com/wubi/86zg/w+01.bmp', 'http://att.chaiwubi.com/wubi/86zg/w+01.bmp',
+  'http://att.chaiwubi.com/wubi/86zg/w+01.bmp', 'http://att.chaiwubi.com/wubi/86zg/w+01.bmp']
+- http://att.chaiwubi.com/wubi/86tj/人.gif
+!!python/str '儿':
+- !!python/unicode ''
+- !!python/unicode 'qt'
+- !!python/unicode 'qtn'
+- !!python/unicode ''
+- ['http://att.chaiwubi.com/wubi/86zg/q+09.bmp', 'http://att.chaiwubi.com/wubi/86zg/t+01.bmp',
+  'http://att.chaiwubi.com/wubi/86zg/n+01.bmp']
+- http://att.chaiwubi.com/wubi/86tj/儿.gif
+!!python/str '入':
+- !!python/unicode ''
+- !!python/unicode 'ty'
+- !!python/unicode 'tyi'
+- !!python/unicode ''
+- ['http://att.chaiwubi.com/wubi/86zg/t+01.bmp', 'http://att.chaiwubi.com/wubi/86zg/y+01.bmp',
+  'http://att.chaiwubi.com/wubi/86zg/i+00.bmp']
+- http://att.chaiwubi.com/wubi/86tj/入.gif
+!!python/str '八':
+- !!python/unicode ''
+- !!python/unicode ''
+- !!python/unicode 'wty'
+- !!python/unicode ''
+- ['http://att.chaiwubi.com/wubi/86zg/w+02.bmp', 'http://att.chaiwubi.com/wubi/86zg/t+01.bmp',
+  'http://att.chaiwubi.com/wubi/86zg/y+01.bmp']
+- http://att.chaiwubi.com/wubi/86tj/八.gif
+!!python/str '几':
+- !!python/unicode ''
+- !!python/unicode 'mt'
+- !!python/unicode 'mtn'
+- !!python/unicode ''
+- ['http://att.chaiwubi.com/wubi/86zg/m+07.bmp', 'http://att.chaiwubi.com/wubi/86zg/t+01.bmp',
+  'http://att.chaiwubi.com/wubi/86zg/n+01.bmp']
+- http://att.chaiwubi.com/wubi/86tj/几.gif
+!!python/str '匕':
+- !!python/unicode ''
+- !!python/unicode ''
+- !!python/unicode 'xtn'
+- !!python/unicode ''
+- ['http://att.chaiwubi.com/wubi/86zg/x+11.bmp', 'http://att.chaiwubi.com/wubi/86zg/t+01.bmp',
+  'http://att.chaiwubi.com/wubi/86zg/n+01.bmp']
+- http://att.chaiwubi.com/wubi/86tj/匕.gif
+!!python/str '十':
+- !!python/unicode ''
+- !!python/unicode ''
+- !!python/unicode 'fgh'
+- !!python/unicode ''
+- ['http://att.chaiwubi.com/wubi/86zg/f+07.bmp', 'http://att.chaiwubi.com/wubi/86zg/g+01.bmp',
+  'http://att.chaiwubi.com/wubi/86zg/h+01.bmp']
+- http://att.chaiwubi.com/wubi/86tj/十.gif
+!!python/str '卜':
+- !!python/unicode ''
+- !!python/unicode ''
+- !!python/unicode 'hhy'
+- !!python/unicode ''
+- ['http://att.chaiwubi.com/wubi/86zg/h+06.bmp', 'http://att.chaiwubi.com/wubi/86zg/h+01.bmp',
+  'http://att.chaiwubi.com/wubi/86zg/y+12.bmp']
+- http://att.chaiwubi.com/wubi/86tj/卜.gif
+!!python/str '厂':
+- !!python/unicode ''
+- !!python/unicode ''
+- !!python/unicode 'dgt'
+- !!python/unicode ''
+- ['http://att.chaiwubi.com/wubi/86zg/d+09.bmp', 'http://att.chaiwubi.com/wubi/86zg/g+01.bmp',
+  'http://att.chaiwubi.com/wubi/86zg/t+01.bmp']
+- http://att.chaiwubi.com/wubi/86tj/厂.gif
